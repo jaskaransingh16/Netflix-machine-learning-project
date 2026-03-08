@@ -99,10 +99,3 @@ Some insights that can be extracted from the dataset:
 - Netflix content expanded significantly after 2015.
 
 ---
-
-## 🚀 How to Run the Project
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/jaskaransingh16/Netflix-machine-learning-project.git
